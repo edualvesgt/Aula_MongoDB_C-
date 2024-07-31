@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aDMJeWgXcOs+9/EKHKMaNnBKhCKvl1Q555DsLCaa/gj+XWZITzhgg/im7kgbPXRC/kM2ffbfAxmF40cfu8YsRg==",
+  "dgSpecHash": "aPMIEt3cUBRhBeS22umOmjYwhBsr/E7UGtux3Cl/rHfH9mD8e9FJe/ssWD80CMKHA3NWaXFP1PBgDy0GA9oGBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46291995867\\Desktop\\API_Minimal_Mongo\\API_Minimal_Mongo.csproj",
+  "projectFilePath": "C:\\Users\\46291995867\\Desktop\\Aula_MongoDB_C-\\API_Minimal_Mongo\\API_Minimal_Mongo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46291995867\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\46291995867\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

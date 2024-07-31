@@ -3,6 +3,7 @@ using MongoDB.Bson;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using API_Minimal_Mongo.Domains;
 
 namespace API_Minimal_Mongo.ViewModels
 {
@@ -18,6 +19,7 @@ namespace API_Minimal_Mongo.ViewModels
         public string? ClientId { get; set; }
 
         public List<string>? ProductId { get; set; }
+        public List<Product>? Products { get; set; }
         public Dictionary<string, string>? AdditionalAttributes { get; set; }
     }
 }

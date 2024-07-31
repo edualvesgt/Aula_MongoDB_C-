@@ -28,8 +28,8 @@ namespace API_Minimal_Mongo.Domains
         [JsonIgnore]
         [BsonElement("productId")]
         public List<string>? ProductId { get; set; }
+
         //Referencia para listar os pedidos podermos receber o dados dos produtos
-        
         public List<Product>? Products { get; set; }
 
         public Dictionary<string, string> AdditionalAttributes { get; set; }
